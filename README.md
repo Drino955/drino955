@@ -67,12 +67,3 @@ Async scraping system that collects user profiles, groups, channels, and message
 | **KrityHack** | Client-side tools — WebSocket manipulation, code deobfuscation, Proxy objects | JavaScript |
 | **Discord Bots** | Shop bot + AI moderator with ChatGPT | Node.js, discord.js |
 
----
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Drino955&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drino955&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-</div>
